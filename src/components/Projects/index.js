@@ -52,7 +52,7 @@ const projects = [
   {
     title: 'Omnifood',
     description: 'A fictitious landing page for a food delivery service. Created as a Udemy course code-along to practice front end development.',
-    url: 'https://mlacey.io/Omnifood/',
+    url: 'https://matthewlacey.github.io/Omnifood/',
     date: new Date(2016, 3),
     src: 'omnifood.png',
     type: 'code',
