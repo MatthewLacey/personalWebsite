@@ -1,0 +1,152 @@
+@media only screen and (max-width: 1340px) {
+	.skills {
+		font-size: 95px;
+	}
+
+	.skills li i {
+		font-size: 95px;
+	}
+}
+
+@media only screen and (max-width: 1300px) {
+	.skills {
+		font-size: 90px;
+	}
+
+	.skills li i {
+		font-size: 90px;
+	}
+
+	.about .words {
+		width: 60%;
+		margin-top: 6%;
+	}
+	.about img {
+		margin-top: 6%;
+	}
+}
+
+@media only screen and (max-width: 1220px) {
+	.container{
+		width: 80%;
+		margin-left: 10%;
+	}
+	
+	.skills {
+		font-size: 80px;
+	}
+
+	.skills li i {
+		font-size: 80px;
+	}
+
+	.about .words {
+		width: 65%;
+	}
+}
+
+@media only screen and (max-width: 1072px) {
+	.skills {
+		font-size: 70px;
+	}
+
+	.skills li i {
+		font-size: 70px;
+	}
+}
+
+@media only screen and (max-width: 950px) {
+	.skills {
+		font-size: 60px;
+	}
+
+	.skills li i {
+		font-size: 60px;
+	}
+
+	.about .words {
+		display: initial;
+		width: 100%;
+	}
+
+	.about .words h1 {
+		padding-top: 5%;
+	}
+
+	.about img {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	footer {
+		font-size: 100px;
+		padding-bottom: 3%;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	figure {
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 5%;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	header h1 {
+		display: initial;
+		font-weight: 300;
+		font-size: 50px;
+		margin: 0;
+		padding: 0;
+	}
+
+	header nav {
+		float: none;
+		margin-top: 2.5%;
+		font-size: 80%;
+	}
+
+	header nav ul li:first-of-type {
+		padding-left: 0;
+	}
+
+	header {
+		padding-bottom: 15px;
+	}
+}
+
+@media only screen and (max-width: 705px) {
+	.skills {
+		font-size: 40px;
+	}
+
+	.skills li i {
+		font-size: 40px;
+	}
+
+	footer {
+		font-size: 80px;
+	}
+
+	.about .words h1 {
+		padding-top: 20px;
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 468px) {
+	.skills {
+		font-size: 30px;
+		padding-bottom:3%;
+	}
+
+	.skills li i {
+		font-size: 30px;
+	}
+
+	footer {
+		font-size: 70px;
+	}
+}

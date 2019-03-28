@@ -2,10 +2,20 @@
   "name": "mlacey.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "www.mlacey.io",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "@fortawesome/fontawesome-svg-core": "^1.2.12",
+    "@fortawesome/free-brands-svg-icons": "^5.6.3",
+    "@fortawesome/free-solid-svg-icons": "^5.6.3",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "animate.css": "^3.7.0",
+    "i": "^0.3.6",
+    "npm": "^6.5.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.3",
+    "reactjs-popup": "^1.3.2"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1350px) {
+	.projPop {
+		width: 60vw!important;
+	}
+}
+
+@media only screen and (max-width: 1150px) {
+	.projMedia {
+		width: 80%;
+		margin-left: 10%;
+	}
+
+	.projPop p {
+		width: 80%;
+		margin-left: 10%;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.projPop {
+		width: 70vw!important;
+		min-height: 50vw;
+	}
+
+	
+}
+
+@media only screen and (max-width: 670px) {
+	.projPop {
+		width: 80vw!important;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.projPop {
+		width: 90vw!important;
+	}
+}

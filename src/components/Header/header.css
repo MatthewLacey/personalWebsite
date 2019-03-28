@@ -1,0 +1,44 @@
+header {
+	text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header h1 {
+	display: inline-block;
+	font-weight: 300;
+	font-size: 50px;
+	margin: 0;
+	padding: 0;
+}
+
+header nav {
+	float: right;
+	margin-top: 25px;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+header nav ul li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+header nav ul li a:link,
+header nav ul li a:visited {
+	text-decoration: none;
+	color: #16161d;
+	padding: 7px;
+	border-radius: 20px;
+}
+
+.active {
+	background-color: #f1c40f;
+}
