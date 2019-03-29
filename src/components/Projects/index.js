@@ -15,6 +15,15 @@ const media = importAll(require.context('./media', false, /\.(png|jpe?g|svg|gif)
 
 const projects = [
   {
+    title: 'Personal Website',
+    description: 'Look familiar? This website was created using react. Click the link below to view my source code.',
+    url: 'https://github.com/MatthewLacey/personalWebsite',
+    date: new Date(2019, 2),
+    src: 'mysite.png',
+    type: 'code',
+    media: 'mysitess.png'
+  },
+  {
     title: 'AR Strategy Game Map',
     description: 'A map created with Maya and Unity for a turned based strategy game.',
     date: new Date(2018, 6),
