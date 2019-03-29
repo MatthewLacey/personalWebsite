@@ -13,7 +13,6 @@ class About extends Component {
 
     increment(index) {
     	this.index = index+1
-        console.log(this.index);
         return this.index;
     }
 
