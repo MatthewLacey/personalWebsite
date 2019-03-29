@@ -16,7 +16,7 @@ const media = importAll(require.context('./media', false, /\.(png|jpe?g|svg|gif)
 const projects = [
   {
     title: 'Personal Website',
-    description: 'Look familiar? This website was created using react. Click the link below to view my source code.',
+    description: 'Look familiar? This website was created using React. Click the link below to view my source code.',
     url: 'https://github.com/MatthewLacey/personalWebsite',
     date: new Date(2019, 2),
     src: 'mysite.png',
